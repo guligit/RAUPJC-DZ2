@@ -1,0 +1,7 @@
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\Models\bin\Debug\Models.dll
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\Models\bin\Debug\Models.pdb
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\Models\bin\Debug\GenericList.exe
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\Models\bin\Debug\GenericList.pdb
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\Models\obj\Debug\Models.dll
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\Models\obj\Debug\Models.pdb
