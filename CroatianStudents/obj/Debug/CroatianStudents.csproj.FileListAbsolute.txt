@@ -1,0 +1,6 @@
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\CroatianStudents\bin\Debug\CroatianStudents.exe.config
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\CroatianStudents\bin\Debug\CroatianStudents.exe
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\CroatianStudents\bin\Debug\CroatianStudents.pdb
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\CroatianStudents\obj\Debug\CroatianStudents.exe
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\CroatianStudents\obj\Debug\CroatianStudents.pdb
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\CroatianStudents\obj\Debug\CroatianStudents.csprojResolveAssemblyReference.cache
