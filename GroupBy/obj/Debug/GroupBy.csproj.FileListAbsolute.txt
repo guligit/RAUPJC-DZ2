@@ -1,0 +1,6 @@
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\GroupBy\bin\Debug\GroupBy.exe.config
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\GroupBy\bin\Debug\GroupBy.exe
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\GroupBy\bin\Debug\GroupBy.pdb
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\GroupBy\obj\Debug\GroupBy.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\GroupBy\obj\Debug\GroupBy.exe
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\GroupBy\obj\Debug\GroupBy.pdb

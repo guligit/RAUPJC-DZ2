@@ -1,0 +1,5 @@
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\MultiThreading\bin\Debug\MultiThreading.exe.config
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\MultiThreading\bin\Debug\MultiThreading.exe
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\MultiThreading\bin\Debug\MultiThreading.pdb
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\MultiThreading\obj\Debug\MultiThreading.exe
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\MultiThreading\obj\Debug\MultiThreading.pdb
