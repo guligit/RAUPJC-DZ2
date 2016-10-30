@@ -1,0 +1,10 @@
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\ModelsTests\bin\Debug\ModelsTests.dll
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\ModelsTests\bin\Debug\ModelsTests.pdb
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\ModelsTests\bin\Debug\GenericList.exe
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\ModelsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\ModelsTests\bin\Debug\Models.dll
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\ModelsTests\bin\Debug\Models.pdb
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\ModelsTests\bin\Debug\GenericList.pdb
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\ModelsTests\obj\Debug\ModelsTests.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\ModelsTests\obj\Debug\ModelsTests.dll
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\ModelsTests\obj\Debug\ModelsTests.pdb
