@@ -7,6 +7,6 @@ Operacije A, B, C, D i E su se izvodile na jednoj dretvi.
 Izvođenje programa ja trajalo cca. 1 sekundu.
 #Pitanje 4:
 Operacije A, B, C, D i E su se izvodile na pet dretvi.
-#Pitanje 5
+#Pitanje 5:
 Paralelna petlja je trajala cca. 32 milisekundi, a obična manje od 1 milisekunde.
 
