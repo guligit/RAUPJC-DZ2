@@ -1,0 +1,6 @@
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\FactorialSum\bin\Debug\FactorialSum.exe.config
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\FactorialSum\bin\Debug\FactorialSum.exe
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\FactorialSum\bin\Debug\FactorialSum.pdb
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\FactorialSum\obj\Debug\FactorialSum.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\FactorialSum\obj\Debug\FactorialSum.exe
+C:\Users\Marko\Documents\FER\Preddiplomski studij\3. semestar\RAUPJC\Zadaće\DrugaDZ\FactorialSum\obj\Debug\FactorialSum.pdb
